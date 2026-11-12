@@ -1,2 +1,3 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/401ea851-ea94-418a-9aaa-2da74604a4b2" />
 # /kanban
 Capturas diarias del tablero: dia-1.png, dia-2.png, ...
